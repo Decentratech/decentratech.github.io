@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang = "en">
     <head>
-        <title>Decentratech</title>
+        Decentratech
     </head>
     <body>
       Go to <a>decentratech.us</a>
