@@ -1,8 +1,9 @@
 <!DOCTYPE html>
-<html>
-<body>
-<h1>Decentratech</h1>
-<a>www.decentratech.us</a>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
+<html lang = "en">
+    <head>
+        <title>Decentratech</title>
+    </head>
+    <body>
+      Go to <a>decentratech.us</a>
+    </body>
 </html>
